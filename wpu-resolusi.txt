@@ -1,0 +1,4 @@
+WPU RESOLUSI
+- membuat aplikasi payroll under web
+- membuat aplikasi KPI under web
+- membuat web base Management RS
